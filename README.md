@@ -2,7 +2,7 @@
 SQL project to analyze online music store data
 
 
-Database and Tools
+Database used:
 MySQL
 MySQL workbench
 Schema- Music Store Database
